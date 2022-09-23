@@ -1,0 +1,153 @@
+2022-09-21 10:05:33.033 | INFO     | __main__:train:384 - start training ...
+2022-09-21 10:05:33.033 | INFO     | __main__:train:385 -   num example = 25
+2022-09-21 10:05:33.033 | INFO     | __main__:train:386 -   num epochs = 30
+2022-09-21 10:05:33.033 | INFO     | __main__:train:387 -   total train batch size (parallel) = 4
+2022-09-21 10:05:33.034 | INFO     | __main__:train:388 -   total optimization step = 750
+2022-09-21 10:05:33.034 | INFO     | __main__:train_epoch:287 - training epoch<1> ...
+2022-09-21 10:05:47.919 | INFO     | __main__:on_epoch_end:403 - 
+
+2022-09-21 10:05:47.919 | INFO     | __main__:on_epoch_end:404 - dev/cer is 0.0987573577501635
+2022-09-21 10:05:51.123 | INFO     | __main__:on_evaluation_end:370 - 
+
+2022-09-21 10:05:51.124 | INFO     | __main__:on_evaluation_end:371 - dev/best_cer is 0.0987573577501635
+2022-09-21 10:05:51.124 | INFO     | __main__:train_epoch:287 - training epoch<2> ...
+2022-09-21 10:06:44.972 | INFO     | __main__:on_epoch_end:403 - 
+
+2022-09-21 10:06:44.973 | INFO     | __main__:on_epoch_end:404 - dev/cer is 0.9829954218443427
+2022-09-21 10:06:44.973 | INFO     | __main__:train_epoch:287 - training epoch<3> ...
+2022-09-21 10:07:33.220 | INFO     | __main__:on_epoch_end:403 - 
+
+2022-09-21 10:07:33.220 | INFO     | __main__:on_epoch_end:404 - dev/cer is 0.5546108567691301
+2022-09-21 10:07:33.220 | INFO     | __main__:train_epoch:287 - training epoch<4> ...
+2022-09-21 10:08:09.240 | INFO     | __main__:on_epoch_end:403 - 
+
+2022-09-21 10:08:09.240 | INFO     | __main__:on_epoch_end:404 - dev/cer is 0.3871811641595814
+2022-09-21 10:08:09.241 | INFO     | __main__:train_epoch:287 - training epoch<5> ...
+2022-09-21 10:08:37.426 | INFO     | __main__:on_epoch_end:403 - 
+
+2022-09-21 10:08:37.427 | INFO     | __main__:on_epoch_end:404 - dev/cer is 0.27141922825376064
+2022-09-21 10:08:37.427 | INFO     | __main__:train_epoch:287 - training epoch<6> ...
+2022-09-21 10:09:19.865 | INFO     | __main__:on_epoch_end:403 - 
+
+2022-09-21 10:09:19.865 | INFO     | __main__:on_epoch_end:404 - dev/cer is 0.5212557226945717
+2022-09-21 10:09:19.865 | INFO     | __main__:train_epoch:287 - training epoch<7> ...
+2022-09-21 10:09:53.761 | INFO     | __main__:on_epoch_end:403 - 
+
+2022-09-21 10:09:53.761 | INFO     | __main__:on_epoch_end:404 - dev/cer is 0.30085022890778285
+2022-09-21 10:09:53.761 | INFO     | __main__:train_epoch:287 - training epoch<8> ...
+2022-09-21 10:10:30.801 | INFO     | __main__:on_epoch_end:403 - 
+
+2022-09-21 10:10:30.801 | INFO     | __main__:on_epoch_end:404 - dev/cer is 0.36102027468933945
+2022-09-21 10:10:30.802 | INFO     | __main__:train:397 - early stopping on train epoch
+2022-09-21 17:47:32.452 | INFO     | __main__:train:385 - start training ...
+2022-09-21 17:47:32.452 | INFO     | __main__:train:386 -   num example = 25
+2022-09-21 17:47:32.453 | INFO     | __main__:train:387 -   num epochs = 30
+2022-09-21 17:47:32.453 | INFO     | __main__:train:388 -   total train batch size (parallel) = 4
+2022-09-21 17:47:32.453 | INFO     | __main__:train:389 -   total optimization step = 750
+2022-09-21 17:47:32.453 | INFO     | __main__:train_epoch:288 - training epoch<1> ...
+2022-09-21 18:26:55.650 | INFO     | __main__:train:385 - start training ...
+2022-09-21 18:26:55.651 | INFO     | __main__:train:386 -   num example = 25
+2022-09-21 18:26:55.651 | INFO     | __main__:train:387 -   num epochs = 30
+2022-09-21 18:26:55.651 | INFO     | __main__:train:388 -   total train batch size (parallel) = 4
+2022-09-21 18:26:55.651 | INFO     | __main__:train:389 -   total optimization step = 750
+2022-09-21 18:26:55.651 | INFO     | __main__:train_epoch:288 - training epoch<1> ...
+2022-09-21 18:29:28.140 | INFO     | __main__:train:385 - start training ...
+2022-09-21 18:29:28.140 | INFO     | __main__:train:386 -   num example = 25
+2022-09-21 18:29:28.140 | INFO     | __main__:train:387 -   num epochs = 30
+2022-09-21 18:29:28.140 | INFO     | __main__:train:388 -   total train batch size (parallel) = 4
+2022-09-21 18:29:28.140 | INFO     | __main__:train:389 -   total optimization step = 750
+2022-09-21 18:29:28.141 | INFO     | __main__:train_epoch:288 - training epoch<1> ...
+2022-09-21 18:32:10.756 | INFO     | __main__:train:385 - start training ...
+2022-09-21 18:32:10.756 | INFO     | __main__:train:386 -   num example = 25
+2022-09-21 18:32:10.757 | INFO     | __main__:train:387 -   num epochs = 30
+2022-09-21 18:32:10.757 | INFO     | __main__:train:388 -   total train batch size (parallel) = 4
+2022-09-21 18:32:10.757 | INFO     | __main__:train:389 -   total optimization step = 750
+2022-09-21 18:32:10.757 | INFO     | __main__:train_epoch:288 - training epoch<1> ...
+2022-09-21 18:35:35.841 | INFO     | __main__:train:385 - start training ...
+2022-09-21 18:35:35.841 | INFO     | __main__:train:386 -   num example = 25
+2022-09-21 18:35:35.841 | INFO     | __main__:train:387 -   num epochs = 30
+2022-09-21 18:35:35.841 | INFO     | __main__:train:388 -   total train batch size (parallel) = 4
+2022-09-21 18:35:35.842 | INFO     | __main__:train:389 -   total optimization step = 750
+2022-09-21 18:35:35.842 | INFO     | __main__:train_epoch:288 - training epoch<1> ...
+2022-09-21 18:39:07.030 | INFO     | __main__:train:385 - start training ...
+2022-09-21 18:39:07.030 | INFO     | __main__:train:386 -   num example = 25
+2022-09-21 18:39:07.030 | INFO     | __main__:train:387 -   num epochs = 30
+2022-09-21 18:39:07.031 | INFO     | __main__:train:388 -   total train batch size (parallel) = 4
+2022-09-21 18:39:07.031 | INFO     | __main__:train:389 -   total optimization step = 750
+2022-09-21 18:39:07.031 | INFO     | __main__:train_epoch:288 - training epoch<1> ...
+2022-09-21 18:42:54.502 | INFO     | __main__:train:385 - start training ...
+2022-09-21 18:42:54.502 | INFO     | __main__:train:386 -   num example = 25
+2022-09-21 18:42:54.503 | INFO     | __main__:train:387 -   num epochs = 30
+2022-09-21 18:42:54.503 | INFO     | __main__:train:388 -   total train batch size (parallel) = 4
+2022-09-21 18:42:54.503 | INFO     | __main__:train:389 -   total optimization step = 750
+2022-09-21 18:42:54.503 | INFO     | __main__:train_epoch:288 - training epoch<1> ...
+2022-09-21 18:45:45.859 | INFO     | __main__:train:385 - start training ...
+2022-09-21 18:45:45.859 | INFO     | __main__:train:386 -   num example = 25
+2022-09-21 18:45:45.859 | INFO     | __main__:train:387 -   num epochs = 30
+2022-09-21 18:45:45.859 | INFO     | __main__:train:388 -   total train batch size (parallel) = 4
+2022-09-21 18:45:45.859 | INFO     | __main__:train:389 -   total optimization step = 750
+2022-09-21 18:45:45.860 | INFO     | __main__:train_epoch:288 - training epoch<1> ...
+2022-09-21 18:54:00.908 | INFO     | __main__:train:385 - start training ...
+2022-09-21 18:54:00.908 | INFO     | __main__:train:386 -   num example = 25
+2022-09-21 18:54:00.908 | INFO     | __main__:train:387 -   num epochs = 30
+2022-09-21 18:54:00.909 | INFO     | __main__:train:388 -   total train batch size (parallel) = 4
+2022-09-21 18:54:00.909 | INFO     | __main__:train:389 -   total optimization step = 750
+2022-09-21 18:54:00.909 | INFO     | __main__:train_epoch:288 - training epoch<1> ...
+2022-09-21 21:39:40.959 | INFO     | __main__:train:385 - start training ...
+2022-09-21 21:39:40.959 | INFO     | __main__:train:386 -   num example = 25
+2022-09-21 21:39:40.959 | INFO     | __main__:train:387 -   num epochs = 30
+2022-09-21 21:39:40.960 | INFO     | __main__:train:388 -   total train batch size (parallel) = 4
+2022-09-21 21:39:40.960 | INFO     | __main__:train:389 -   total optimization step = 750
+2022-09-21 21:39:40.960 | INFO     | __main__:train_epoch:288 - training epoch<1> ...
+2022-09-21 21:40:46.855 | INFO     | __main__:train:385 - start training ...
+2022-09-21 21:40:46.856 | INFO     | __main__:train:386 -   num example = 25
+2022-09-21 21:40:46.856 | INFO     | __main__:train:387 -   num epochs = 30
+2022-09-21 21:40:46.856 | INFO     | __main__:train:388 -   total train batch size (parallel) = 4
+2022-09-21 21:40:46.857 | INFO     | __main__:train:389 -   total optimization step = 750
+2022-09-21 21:40:46.857 | INFO     | __main__:train_epoch:288 - training epoch<1> ...
+2022-09-21 21:45:48.212 | INFO     | __main__:train:385 - start training ...
+2022-09-21 21:45:48.213 | INFO     | __main__:train:386 -   num example = 25
+2022-09-21 21:45:48.213 | INFO     | __main__:train:387 -   num epochs = 30
+2022-09-21 21:45:48.213 | INFO     | __main__:train:388 -   total train batch size (parallel) = 4
+2022-09-21 21:45:48.213 | INFO     | __main__:train:389 -   total optimization step = 750
+2022-09-21 21:45:48.214 | INFO     | __main__:train_epoch:288 - training epoch<1> ...
+2022-09-21 21:57:30.151 | INFO     | __main__:train:385 - start training ...
+2022-09-21 21:57:30.152 | INFO     | __main__:train:386 -   num example = 25
+2022-09-21 21:57:30.153 | INFO     | __main__:train:387 -   num epochs = 30
+2022-09-21 21:57:30.154 | INFO     | __main__:train:388 -   total train batch size (parallel) = 4
+2022-09-21 21:57:30.154 | INFO     | __main__:train:389 -   total optimization step = 750
+2022-09-21 21:57:30.155 | INFO     | __main__:train_epoch:288 - training epoch<1> ...
+2022-09-21 22:02:22.643 | INFO     | __main__:train:384 - start training ...
+2022-09-21 22:02:22.643 | INFO     | __main__:train:385 -   num example = 25
+2022-09-21 22:02:22.643 | INFO     | __main__:train:386 -   num epochs = 30
+2022-09-21 22:02:22.644 | INFO     | __main__:train:387 -   total train batch size (parallel) = 4
+2022-09-21 22:02:22.644 | INFO     | __main__:train:388 -   total optimization step = 750
+2022-09-21 22:02:22.644 | INFO     | __main__:train_epoch:287 - training epoch<1> ...
+2022-09-21 22:03:32.350 | INFO     | __main__:train:386 - start training ...
+2022-09-21 22:03:32.350 | INFO     | __main__:train:387 -   num example = 25
+2022-09-21 22:03:32.351 | INFO     | __main__:train:388 -   num epochs = 30
+2022-09-21 22:03:32.351 | INFO     | __main__:train:389 -   total train batch size (parallel) = 4
+2022-09-21 22:03:32.352 | INFO     | __main__:train:390 -   total optimization step = 750
+2022-09-21 22:03:32.353 | INFO     | __main__:train_epoch:288 - training epoch<1> ...
+2022-09-21 22:03:42.530 | INFO     | __main__:on_epoch_end:405 - 
+
+2022-09-21 22:03:42.531 | INFO     | __main__:on_epoch_end:406 - dev/cer is 1.0
+2022-09-21 22:03:52.740 | INFO     | __main__:on_evaluation_end:372 - 
+
+2022-09-21 22:03:52.740 | INFO     | __main__:on_evaluation_end:373 - dev/best_cer is 1.0
+2022-09-21 22:03:52.740 | INFO     | __main__:train_epoch:288 - training epoch<2> ...
+2022-09-21 22:04:11.200 | INFO     | __main__:on_epoch_end:405 - 
+
+2022-09-21 22:04:11.200 | INFO     | __main__:on_epoch_end:406 - dev/cer is 1.0
+2022-09-21 22:04:11.200 | INFO     | __main__:train_epoch:288 - training epoch<3> ...
+2022-09-21 22:04:17.916 | INFO     | __main__:on_epoch_end:405 - 
+
+2022-09-21 22:04:17.916 | INFO     | __main__:on_epoch_end:406 - dev/cer is 0.9319816873773709
+2022-09-21 22:04:28.300 | INFO     | __main__:on_evaluation_end:372 - 
+
+2022-09-21 22:04:28.300 | INFO     | __main__:on_evaluation_end:373 - dev/best_cer is 0.9319816873773709
+2022-09-21 22:04:28.300 | INFO     | __main__:train_epoch:288 - training epoch<4> ...
+2022-09-21 22:04:33.027 | INFO     | __main__:on_epoch_end:405 - 
+
+2022-09-21 22:04:33.028 | INFO     | __main__:on_epoch_end:406 - dev/cer is 0.9574885546108568
+2022-09-21 22:04:33.028 | INFO     | __main__:train_epoch:288 - training epoch<5> ...
